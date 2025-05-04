@@ -1,7 +1,5 @@
 # airbnb-clone-project
 
-# Airbnb Clone Project
-
 ## Overview
 This project is a clone of Airbnb's booking system, focusing on creating a simple but effective UI/UX for property listings, detailed views, and booking functionality.
 
