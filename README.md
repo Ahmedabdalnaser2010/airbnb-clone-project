@@ -135,3 +135,41 @@ Identifying design properties is essential because:
 - Remove impediments
 - Coach Agile practices
 - Ensure team improvement
+
+## UI Component Patterns
+
+### Navbar
+- Logo
+- Search bar
+- User menu
+- Navigation links
+- Responsive hamburger menu for mobile
+
+### Property Card
+- Property image
+- Price per night
+- Rating and review count
+- Property title
+- Location
+- Favorite button
+
+### Footer
+- Company links
+- Help section
+- Community links
+- Social media icons
+- Copyright information
+
+### Search Filters
+- Location dropdown
+- Date range picker
+- Guest counter
+- Price range slider
+- Amenities checklist
+
+### Booking Form
+- Date selection
+- Guest count
+- Price breakdown
+- Book now button
+- Cancellation policy
