@@ -73,3 +73,65 @@ Identifying design properties is essential because:
 - Speeds up development with predefined styles
 - Makes maintenance easier
 - Helps in creating a cohesive brand identity
+
+## Project Roles and Responsibilities
+
+### Project Manager (PM)
+**Responsibilities:**
+- Plan and oversee project progress
+- Facilitate team communication
+- Manage timelines and resources
+- Identify and mitigate risks
+- Serve as main stakeholder contact
+
+### Frontend Developers
+**Responsibilities:**
+- Implement UI/UX designs
+- Develop React components
+- Ensure responsive design
+- Optimize performance
+- Integrate with backend APIs
+
+### Backend Developers
+**Responsibilities:**
+- Develop server-side logic
+- Design and manage databases
+- Create and maintain APIs
+- Implement security measures
+- Optimize server performance
+
+### Designers
+**Responsibilities:**
+- Create wireframes and mockups
+- Design visual elements
+- Maintain brand consistency
+- Conduct usability testing
+
+### QA/Testers
+**Responsibilities:**
+- Develop test plans
+- Perform manual/automated testing
+- Identify and track bugs
+- Ensure quality standards
+
+### DevOps Engineers
+**Responsibilities:**
+- Automate deployments
+- Manage cloud infrastructure
+- Monitor performance
+- Implement CI/CD pipelines
+- Ensure production security
+
+### Product Owner (PO)
+**Responsibilities:**
+- Define product vision
+- Prioritize features
+- Manage product backlog
+- Ensure business alignment
+
+### Scrum Master
+**Responsibilities:**
+- Facilitate Scrum ceremonies
+- Remove impediments
+- Coach Agile practices
+- Ensure team improvement
