@@ -45,3 +45,31 @@ A user-friendly design is crucial for booking systems because:
 - Increases conversion rates
 - Improves customer satisfaction
 - Makes the platform more accessible to all users
+
+### Design Properties
+
+#### Color Styles
+- Primary: #FF385C (Airbnb pink/red)
+- Secondary: #FFFFFF (White)
+- Accent: #000000 (Black)
+- Background: #F7F7F7 (Light gray)
+- Text: #222222 (Dark gray)
+- Secondary Text: #717171 (Medium gray)
+
+#### Typography
+- Font Family: Circular, -apple-system, BlinkMacSystemFont, sans-serif
+- Font Weights: 
+  - Regular: 400
+  - Medium: 500
+  - Bold: 700
+- Font Sizes:
+  - Headings: 24px - 32px
+  - Body: 14px - 16px
+  - Small text: 12px
+
+### Importance of Design Properties
+Identifying design properties is essential because:
+- Ensures visual consistency across the application
+- Speeds up development with predefined styles
+- Makes maintenance easier
+- Helps in creating a cohesive brand identity
